@@ -1,6 +1,6 @@
 // prettier-ignore
 export default [
-    { author: "Teman SD mu", quotes: "Happy Birthday...." },
+    { author: "By : Teman SD mu", quotes: "Happy Birthday Anggitha Putri Rachmandini...." },
     
     // { author: "antjedtta_", quotes: "Pam pam pararam ceklek jedar\nPararam ram parararam ram" },
     // { author: "standinshd", quotes: "Hey! I wuv chuuuu! UwU" },
