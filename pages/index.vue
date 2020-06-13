@@ -38,9 +38,9 @@
         class="vue-typed"
         :showCursor="false"
         :loop="true"
-        :strings="[greetings() + ', ' + nicknames + '!', 'Selamat Uang Tahun....', 'Udah itu aja....']"
+        :strings="[greetings() + ', ' + nicknames + '!', 'Selamat Ulang Tahun....', 'Udah itu aja....']"
         :backDelay="500"
-        :typeSpeed="100"
+        :typeSpeed="200"
         :backSpeed="20"
         :contentType="'null'"
       >
