@@ -13,7 +13,7 @@
       shapeType="circle"
       :color="darkMode() ? '#f5f5f5' : '#171717'"
       :particleOpacity="0.7"
-      :particlesNumber="330"
+      :particlesNumber="930"
       :particleSize="4"
       :linesWidth="1"
       :lineLinked="true"
