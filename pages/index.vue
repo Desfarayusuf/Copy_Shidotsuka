@@ -40,7 +40,7 @@
         :loop="true"
         :strings="[greetings() + ', ' + nicknames + '!', 'Selamat Ulang Tahun....', 'Udah itu aja....']"
         :backDelay="500"
-        :typeSpeed="100"
+        :typeSpeed="150"
         :backSpeed="20"
         :contentType="'null'"
       >
